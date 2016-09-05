@@ -3,10 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: iossocket blog
+title: iossocket's blog
 subtitle: iOS Dev @ThouthgWorks
 description:
 author: iossocket
+avatar: /uploads/avatar.jpg
 language:
 timezone:
 
